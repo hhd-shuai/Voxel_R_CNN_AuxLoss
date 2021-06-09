@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: voxel-r-cnn
+Version: 0.1.0+c60d387
+Summary: Voxel-R-CNN is the implementation of Voxel R-CNN in AAAI2021. This code is built on OpenPCDet
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
